@@ -2,9 +2,7 @@
 
 # ⚡What is this?
 
-this is a web app for watching movies easily.
-
-This service works by displaying video files from third-party providers inside an intuitive and aesthetic user interface.
+This is a web app for watching movies easily, works by displaying video files from third-party providers inside an intuitive and aesthetic user interface.
 
 # 🔥Features
 
@@ -47,10 +45,8 @@ pnpm build
 
 # 🥔 Selfhosting
 
-A simple guide has been written to assist in hosting your own instance of movie-web. Check it out below
+A simple guide has been written to assist in hosting your own instance.
 
-|[Selfhosting guide](https://movie-web.github.io/docs)|
-|---|
 
 ## 🤝 Thanks to all Contributors
 This project would not be possible without our amazing contributors and the community. Thanks a lot! Keep rocking 🍻.
