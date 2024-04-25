@@ -1,16 +1,16 @@
 
 
-# ⚡What is this?
+# What is this?
 
 This is a web app for watching movies easily, works by displaying video files from third-party providers inside an intuitive and aesthetic user interface.
 
-# 🔥Features
+# Features
 
 - Automatic saving of progress - optionally synced to an account.
 - Bookmark shows or movies, keep track of what you want to watch.
 - Minimalistic interface that only shows whats required - no algorithm to consume you.
 
-## 🍄 Philosophy
+## Philosophy
 
 This project is meant to be simple and easy to use. Keep features minimal but polished.
 We do not want this project to be yet another bulky streaming site, instead it aims for minimalism.
@@ -19,13 +19,13 @@ On top of that, hosting should be as cheap and simple as possible. Just a static
 
 Content is fetched from third parties and scraping is fully done on the client. This means that the hoster has no files or media on their server. All files are streamed directly from the third parties.
 
-## ⚠️ Limitations
+## Limitations
 
 - Due to being a static site, there can be no SSR
 - To keep it cheap to host, amount of proxied requests need to be kept to a minimum
 - Also to keep it cheap, no content must ever be streamed through the proxy. So only streams not protected by CORS headers.
 
-# 🧬 Running locally for development
+# Running locally for development
 
 To run locally, you must first clone the repository. After that run the following commands in the root of the repository:
 ```bash
